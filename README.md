@@ -3,7 +3,7 @@
 </p>
 
 <h1> Updating Network Shares and Permissions for Client Computers</h1>
-In this demonstration, I will show how to share files and update permissions for client computers found on the same network. 
+In this demonstration, I will show how to share files and update permissions for clients using computers on the same network. 
 
 <h2>Environments, Applications, and Services Used </h2>
 
@@ -29,7 +29,7 @@ In this demonstration, I will show how to share files and update permissions for
 ![image](https://github.com/user-attachments/assets/a66abf92-8101-46c4-bbec-b2e39a452ff3)
 
 
-2. For each of these folders, I changed the sharing permissions to include domain users and added specific permissions for each folder:
+2. For three of these folders, I changed the sharing permissions to include domain users and added specific permissions:
      - Read only access for the “read-access” folder
      - Read and write only access for the “write-access” folder
      - Read and write only access for the “no-access” folder
@@ -42,7 +42,7 @@ In this demonstration, I will show how to share files and update permissions for
 
 
   
-3. As a user logging into a client computer, I accessed each of the folders and verified I had the appropriate access.
+3. As a user logged into a client computer, I accessed each of the folders and verified I had the appropriate access.
 
 ![image](https://github.com/user-attachments/assets/36e2b1e9-852c-4999-a906-095ade766e94)
 ![image](https://github.com/user-attachments/assets/4a5b3e74-1614-42c9-a2b9-a973ee1e762f)
