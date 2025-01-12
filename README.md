@@ -1,4 +1,6 @@
+<p align="center">
 ![image](https://github.com/user-attachments/assets/9f0fd555-69c4-4c16-becf-5eb22f8e905e)
+</p>
 
 <h1>Updating Networking Shares and Permissions on Client Computers</h1>
 In this demonstration, I will show how to share files and update permissions with clients over the network. 
