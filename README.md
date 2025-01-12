@@ -29,7 +29,8 @@ In this demonstration, I will show how to share files and update permissions for
 ![image](https://github.com/user-attachments/assets/a66abf92-8101-46c4-bbec-b2e39a452ff3)
 
 
-2. For three of these folders, I changed the sharing permissions to include domain users and added specific permissions:
+
+2. For three of these folders, I changed the sharing permissions to include domain users or domain admins:
      - Read only access for the “read-access” folder
      - Read and write only access for the “write-access” folder
      - Read and write only access for the “no-access” folder
@@ -52,7 +53,8 @@ In this demonstration, I will show how to share files and update permissions for
 
 
 <h3>File Permissions</h3>
-1. In Active Direcoty Users and Computers, I created a new security group called Accountants and added domain users to read and write within the folder.
+1. In Active Directory Users and Computers, I created a new security group called "Accountants" and added domain users to read and write within the "Accountants" folder.
+
 
 ![image](https://github.com/user-attachments/assets/49c83726-ddb0-446f-8da8-cd992e70bb1b)
 ![image](https://github.com/user-attachments/assets/c5d68a1a-6df1-4936-a513-116471b19668)
