@@ -1,9 +1,9 @@
 <p align="center">
-![image](https://github.com/user-attachments/assets/9f0fd555-69c4-4c16-becf-5eb22f8e905e)
+    <img width="700" height="250" src="https://github.com/user-attachments/assets/9f0fd555-69c4-4c16-becf-5eb22f8e905e">
 </p>
 
-<h1>Updating Networking Shares and Permissions on Client Computers</h1>
-In this demonstration, I will show how to share files and update permissions with clients over the network. 
+<h1> Networking Shares and Permissions for Client Computers</h1>
+In this demonstration, I will show how to share files and update permissions for client computers found on the same network. 
 
 <h2>Environments, Applications, and Services Used </h2>
 
