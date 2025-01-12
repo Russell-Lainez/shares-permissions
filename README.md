@@ -3,7 +3,7 @@
 </p>
 
 <h1> Updating Network Shares and Permissions for Client Computers</h1>
-In this demonstration, I will show how to share files and update permissions for clients using computers on the same network. 
+In this demonstration, I will show how to share files and update permissions for clients using computers found on the same network. 
 
 <h2>Environments, Applications, and Services Used </h2>
 
