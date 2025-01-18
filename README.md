@@ -2,7 +2,7 @@
     <img width="700" height="250" src="https://github.com/user-attachments/assets/9f0fd555-69c4-4c16-becf-5eb22f8e905e">
 </p>
 
-<h1> Network File Sharing and Permissions for Client Computers</h1>
+<h1> Network File Shares and Permissions for Client Computers</h1>
 In this demonstration, I will show how to share files and update permissions for client computers on the same network. 
 
 <h2>Environments, Applications, and Services Used </h2>
