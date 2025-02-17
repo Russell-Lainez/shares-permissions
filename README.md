@@ -3,7 +3,7 @@
 </p>
 
 <h1> Network File Shares and Permissions for Client Computers</h1>
-In this demonstration, I will show how to share files and update permissions for client computers on the same network. 
+In this demonstration, I will walk you through how file shares work and how to update group permissions for these shares on client computers. I will also show how I used the C: drive to create different folders and share them with general groups.
 
 <h2>Environments, Applications, and Services Used </h2>
 
